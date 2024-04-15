@@ -1,6 +1,6 @@
-<h1 align="center">Menu Online - Lucyan 💻</h1>
+<h1 align="center">Menu Online - Alllisson Andrade 💻</h1>
 
-![Imagem do projeto finalizado](./landing.png)
+![Imagem do projeto finalizado](./1712694207628.jpeg)
 
 <h4 align="center"><a href="https://menu-online-projeto.000webhostapp.com/">Confira o projeto aqui</a></h4>
 
