@@ -1,7 +1,7 @@
 <h1 align="center">Menu Online - Alllisson Andrade 💻</h1>
-
+<div align="center">
 ![Imagem do projeto finalizado](./1712694207628.jpeg)
-
+</div>
 <h4 align="center"><a href="https://menu-online-projeto.000webhostapp.com/">Confira o projeto aqui</a></h4>
 
 ---
